@@ -1,3 +1,3 @@
 <?php
-include_once("itc(1).html");
+include_once("itc.html");
 ?>
